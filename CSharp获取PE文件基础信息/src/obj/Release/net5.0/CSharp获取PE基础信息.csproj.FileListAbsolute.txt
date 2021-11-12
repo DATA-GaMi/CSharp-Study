@@ -1,0 +1,15 @@
+E:\C#\CSharp获取PE基础信息\bin\Release\net5.0\CSharp获取PE基础信息.exe
+E:\C#\CSharp获取PE基础信息\bin\Release\net5.0\CSharp获取PE基础信息.deps.json
+E:\C#\CSharp获取PE基础信息\bin\Release\net5.0\CSharp获取PE基础信息.runtimeconfig.json
+E:\C#\CSharp获取PE基础信息\bin\Release\net5.0\CSharp获取PE基础信息.runtimeconfig.dev.json
+E:\C#\CSharp获取PE基础信息\bin\Release\net5.0\CSharp获取PE基础信息.dll
+E:\C#\CSharp获取PE基础信息\bin\Release\net5.0\ref\CSharp获取PE基础信息.dll
+E:\C#\CSharp获取PE基础信息\bin\Release\net5.0\CSharp获取PE基础信息.pdb
+E:\C#\CSharp获取PE基础信息\obj\Release\net5.0\CSharp获取PE基础信息.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharp获取PE基础信息\obj\Release\net5.0\CSharp获取PE基础信息.AssemblyInfoInputs.cache
+E:\C#\CSharp获取PE基础信息\obj\Release\net5.0\CSharp获取PE基础信息.AssemblyInfo.cs
+E:\C#\CSharp获取PE基础信息\obj\Release\net5.0\CSharp获取PE基础信息.csproj.CoreCompileInputs.cache
+E:\C#\CSharp获取PE基础信息\obj\Release\net5.0\CSharp获取PE基础信息.dll
+E:\C#\CSharp获取PE基础信息\obj\Release\net5.0\ref\CSharp获取PE基础信息.dll
+E:\C#\CSharp获取PE基础信息\obj\Release\net5.0\CSharp获取PE基础信息.pdb
+E:\C#\CSharp获取PE基础信息\obj\Release\net5.0\CSharp获取PE基础信息.genruntimeconfig.cache
